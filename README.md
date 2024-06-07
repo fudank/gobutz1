@@ -1,10 +1,10 @@
-Gobutz
+**Gobutz**
 
 (herd like weird naming ahh, the domain I got easily , 
 in the starting phase I named this application
 gobuzz but didn't got domain.) 
 
-Description
+**Description**
 
 (a) This is a online shopping website made on python technology. 
 
@@ -17,7 +17,7 @@ Description
 (e) This website is made for B2C and a owner of web and bussiness can only add 
 
 
-Installation
+**Installation**
 
 ## Installation
 1. Clone the repository
@@ -25,12 +25,12 @@ Installation
    git clone https://github.com/fudank/gobut
    z1.git
 
-Acknowledgements
+**Acknowledgements**
 
-Thanks to all the YouTuber and book that's helped me to make a project like this
+Thanks to all the YouTubers and books that's helped me to make a project like this
 special thanks to codewithharry YouTube channel. 
 
-Contributing
+**Contributing**
 Guidelines for contributing to the project.
 
 This project is in open source so you can easily pull request or you can download itself

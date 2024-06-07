@@ -8,7 +8,10 @@ Description
 (b) A user can easily see their products in their cart and can buy adding address. 
 (C) A user can pay online or cash on delivery. 
 (d) After product delivery user can write review about that product. 
-(e) This website is made for B2C and a owner of web and bussiness can only add product. 
+(e) This website is made for B2C and a owner of web and bussiness can only add 
 
-
-
+Installation
+## Installation
+1. Clone the repository
+   ```bash
+   git clone https://github.com/fudank/gobutz1.git

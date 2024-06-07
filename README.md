@@ -30,7 +30,10 @@ Acknowledgements
 Thanks to all the YouTuber and book that's helped me to make a project like this
 special thanks to codewithharry YouTube channel. 
 
+Contributing
+Guidelines for contributing to the project.
 
-
-
+This project is in open source so you can easily pull request or you can download itself
+if any user is facing any issue please be free to write on fudank249891@gmail.com 
+I'm always here to learn together. 
 
